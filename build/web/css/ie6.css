@@ -1,0 +1,8 @@
+.slider-holder .prev {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/prev.png', sizingMethod='image');
+}
+.slider-holder .next {
+	background-image:none;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/next.png', sizingMethod='image');
+}
